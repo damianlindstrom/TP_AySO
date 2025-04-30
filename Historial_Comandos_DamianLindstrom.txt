@@ -1,0 +1,156 @@
+    1  pwd
+    2  whoami
+    3  ls
+    4  exit
+    5  ssh-keygen
+    6  pwd
+    7  ls
+    8  cat $HOME/.ssh/*.pub
+    9  cd
+   10  pwd
+   11  ls
+   12  cd repogit
+   13  git clone git@github.com:damianlindstrom/TP_AySO.git
+   14  cd TP_AySO/
+   15  ls -l
+   16  pwd
+   17  cat /etc/os-release
+   18  man grep
+   19  grep HOME_URL /etc/os-release
+   20  grep home_url /etc/os-release
+   21  grep -i Home_url /etc/os-release
+   22  whoami
+   23  touch datos_usuario.txt
+   24  ls
+   25  vim datos_usuario.txt
+   26  echo “Usuario=$(whoami)” > datos_usuario.txt
+   27  whoami
+   28  vim datos_usuario.txt
+   29  whoami
+   30  git add .
+   31  git config --global user.email "damianlindstrom@gmail.com"
+   32  cdcdcdccdcccgioneonoo ~git@github.com:damianlindstrom/TP_AySO.gitgit@github.com:damianlindstrom/TP_AySO.gitgit@github.com:damianlindstrom/TP_AySO.git[C
+   33  cccccccccccccccccccccccdcd
+   34  
+   35  
+   36  pwdpppppppppppppppdddddddddmammmmmmmmmn e[2~  rerrrrrrrrrrrOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOBOBOBOBOBOBOBOBOBOBOBOBOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOAOBOBOBOBOBOBOBOBOBOBOAOAOAOAOAOAOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOAOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBqqqqqqgreggrrrrrreeeeeeppppppp  -iiii grep HOME_URL /etc/os-releaseggggggrre                   --------------------eee/////////////////oooooossstttttttttttttttttcch    whowwwwwwwwwwwwwwwwwwwwwwwwwwwwwwoooouuu daddsussssssssssssrvivlsllllllllllllllllllllllllllllllllllllvvvvvvvviitss__sauioiiiiiiiiiii""
+   37  [2~OBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOAOAOAOAOAOAOAOAOAOAOAOAOAOA[O[I::::::q[200~echo “Usuario=$(whoami)” > datos_usuario.txtecho “Usuario=$(whoami)” > datos_usuario.txt[200~echo “Usuario=$(whoami)” > datos_usuario.txtecho “Usuario=$(whoami)” > datos_usuario.txtecho “Usuario=$(whoami)” > datos_usuario.txtecho “Usuario=$(whoami)” > datos_usuario.txtecho “Usuario=$(whoami)” > datos_usuario.txt[200~echo “Usuario=$(whoami)” > datos_usuario.txt
+   38  eeheeeeeeeeeeeee
+   39  m usarrrooooooootttt
+   40  [2;2R
+   41  [?12;2$y
+   42  OCOC
+   43  wwwwtttttttttttttttttadagggggiigmammai "aiaanliid.ccccccccccccccccccccccccc
+   44  ggiir""""[200~dami
+   45  iiifffffiigloll                        uuwwwwtttttttttttttttttadagggggiigmammai "aiaanliid.ccccccccccc
+   46  ggiir""""[200~dami
+   47  clear
+   48  git config --global user.name "damianlindstrom"
+   49  git commit -m "ADD: agregado 1er ejercicio sobre datos_usuario.txt"
+   50  git status
+   51  git push
+   52  git config --global user.name "Tu-
+   53  cleaaUsuario"~git config --global user.name "Tu-
+   54  Usuario"git config --global user.name "Tu-
+   55  [C[D[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C mmt..-----mmmicocccccccccccccisbbbbbbbeeeeeeeeee           gggggggggggggggittttttttt uushdatos_usuarios.txtdatos_usuarios.txt~grep "model name" /proc/cpuinfo | head -n1 >>
+   56  datos_usuarios.txtdatos_usuarios.txt~datos_usuarios.txtdatos_usuarios.txt~grep "model name" /proc/cpuinfo | head -n1 >>
+   57  grep "model name" /proc/cpuinfo | head -n1 >>
+   58  grep "model name" /proc/cpuinfo | head -n1 >>
+   59  grep "model name" /proc/cpuinfo | head -n1 >>
+   60  datos_usuarios.txtgrep "model name" /proc/cpuinfo | head -n1 >>
+   61  grep "model name" /proc/cpuinfo | head -n1 >>
+   62  datos_usuarios.txtgrep "model name" /proc/cpuinfo | head -n1 >>
+   63  datos_usuarios.txtdatos_usuarios.txt~grep "model name" /proc/cpuinfo | head -n1 >>
+   64  grep "model name" /proc/cpuinfo | head -n1 >> datos_usuario.txt
+   65  11111111>sooooooooooooooo  ..
+   66  git add .git add .
+   67  git status
+   68  git add .
+   69  git status
+   70  git commit -m “feat: Añadiendo información de CPU”
+   71  git commit -m "feat: Añadiendo información de CPU"
+   72  cat <<EOF >> README.md
+   73  Alumno: Damian Lindstrom
+   74  EOF
+   75  vim README.md
+   76  git add .
+   77  git status
+   78  git commit -m "ADD: Añadiendo Readme y datos de usuario"
+   79  git push
+   80  history -a
+   81  [200~history -acccccccccccccccccccccccccccccccccccccccccccccc[B[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[C[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[B[B[B[B[B[B[B[B[B[B[B[B[Bcccccccccccccccccccccc
+   82  datos_usuarios.txt~datos_usuarios.txtgrep "model name" /proc/cpuinfo | head -n1 >>
+   83  [D[A[Bgggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggrgrggggggggggggggggggggggdatos_usuarios.txtgrep "model name" /proc/cpuinfo | head -n1 >>
+   84  [C[C[F[F[F[F[F1111111111111_uuussssssssuurioooooooooooooooooooo.ttttttttttttggiggggggggggggg
+   85  ggggggggagggggg    mmmmm:::             AAAAAAAñññññññAAAAAAAAA[C[C[C[C[C[C[C[C[C[C[C[C
+   86  ggggggggggggggggggggfefffffffffffffffffffffffffffffffffwe:::::::::::    do oorrrrrmmmmmaacat <<EOF >> README.mdcat <<EOF >> README.md~cat <<EOF >> README.md[200~cat <<EOF >> README.mdcat <<EOF >> README.md[200~n:ian  inrrivvvvvvvvvvvooooooooo11
+   87  [C[D[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C mmt..-----mmmicocccccccccccccisbbbbbbbeeeeeeeeee           gggggggggggggggittttttttt uushdatos_usuarios.txtdatos_usuarios.txt~grep "model name" /proc/cpuinfo | head -n1 >>FF
+   88  vm RREREEEEEE2RR0;10;1c[2~[2~[2~[2~[2~[2~[2~[2~[2~[2~[2~
+   89  nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn         33333333333333333ZZZZZZZZZ:::::::::::::::::::::::gggggggggggggggggg Z
+   90  Deeeaaamdddm
+   91  gh~
+   92  [2;2Rcccccccccc
+   93  [200~
+   94  [200~
+   95  [200~
+   96  [200~
+   97  ~
+   98  [200~
+   99  [200~
+  100  
+  101  [3~[3~[3~iiiiiisssshistory -a~hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhgggggggggggggggggggggggg
+  102  isss[200~history -ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhggggggggggghistory -a~
+  103  htoy-a
+  104  cmaaaaaaaaaaaaaaaaaat.......ggiiitgggggggggtccoommm--m            AAAAAAAAAAAAAAAAAAñññññññññññññññññññññññññggggggggggggggggffffffffffffffffffiiiaaUU[200~cat <<EOF >> README.md[Allóóóooooooóóoooooooooooooo
+  105  ggiir""""[200~dami
+  106  vEEED
+  107  [2issiónnnnnnnnnnnnn3333333311wwwqadd .
+  108  usu
+  109   Reeeeeaaaa
+  110  ggipu
+  111  cdcdcdccdcccgioneonoo ~git@github.com:damianlindstrom/TP_AySO.gitgit@github.com:damianlindstrom/TP_AySO.gitgit@github.com:damianlindstrom/TP_AySO.git[Ccccccccccccccccccccccccccccccc[200~~~~
+  112  ~~
+  113  [200~
+  114  ~
+  115  history -a >> $HOME/.bash_history
+  116  touch “Historial_comandos_DamianLindstrom.txt”
+  117  la
+  118  ls
+  119  git add .
+  120  cd repogit
+  121  giggtadaaad [200~“Historial_comandos_DamianLindstrom.txt” 
+  122  l
+  123  git add .
+  124  gigggggggggau
+  125  ls
+  126  vim "Historial_comandos_DamianLindstrom.txt"
+  127  cp ~/.bash_history ./
+  128  pwd
+  129  ls
+  130  rm -rf 'datos_usuario.txt'$'\033''[200~echo'
+  131  ls
+  132  rm -rf datos_usuario.txtecho
+  133  rm -rf 'datos_usuario.txt'$'\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\177\033''[200~echo'
+  134  ls
+  135  rm -rf 'datos_usuario.txt'$'\177\177\177\177\177\177\177\177\177\177\177\177'
+  136  ls
+  137  rm -rf sooooooooooooooo
+  138  ls
+  139  history -a
+  140  cp ~/.bash_history ./"Historial_comandos_DamianLindstrom.txt"
+  141  git add "Historial_comandos_DamianLindstrom.txt"
+  142  rm -rf “Historial_comandos_DamianLindstrom.txt”
+  143  cd repopgt
+  144  cd repogit
+  145  ls
+  146  touch Historial_Comandos_DamianLindstrom
+  147  ls
+  148  rm -rf Historial_Comandos_DamianLindstrom
+  149  touch Historial_Comandos_DamianLindstrom.txt
+  150  lscc
+  151  ls
+  152  vim Historial_Comandos_DamianLindstrom.txt
+  153  history -a
+  154  cp ~/.bash_history ./Historial_comandos_Guille.txtcp ~/.bash_history ./Historial_Comandos_DamianLindstrom.txt
+  155  history -a
+  156  history > Historial_Comandos_DamianLindstrom.txt
